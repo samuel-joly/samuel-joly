@@ -8,4 +8,4 @@
 - 👯 Beard possessor
 - 💬 Blog : __soon__
 - ⚡️ My <a href='https://dev.to/samueljoly'>Dev.to</a> profile
-- :closed_book:<a href='https://www.codewars.com/users/azefortwo'><img src='https://www.codewars.com/users/azefortwo/badges/small'/></a> since july 2020
+- <a href='https://www.codewars.com/users/azefortwo'><img src='https://www.codewars.com/users/azefortwo/badges/micro'/></a>

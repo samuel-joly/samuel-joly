@@ -5,6 +5,7 @@
 - :neckbeard: Praticing **Vim** from february 2020 to now, used to use **Sublime** / **VsStudio** / **Notepad++**, will surely try **NeoVim** and **Emacs** in the following years
 - 💬 Blog : __soon__
 - ⚡️ My <a href='https://dev.to/samueljoly'>Dev.to</a> profile
+- :closed_book:<a href='https://www.codewars.com/users/azefortwo'>Codewarrior</a> since july 2020
 - 📫 Samuel.joly@laplateforme.io
 - 😄 Pronouns: You dont call me, I'm here when its !needed.
 - 👯 Beard possessor

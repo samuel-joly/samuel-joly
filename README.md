@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+  <a href="https://gist.github.com/samuel-joly/10fcca29ed21b2c94001bae0eb3b5f9ea403cdad">
+    <img src="https://raw.githubusercontent.com/samuel-joly/github-stats-box/images/screenshot.png">
+  </a>
+
 <!--
 **samuel-joly/samuel-joly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

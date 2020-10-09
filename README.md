@@ -1,20 +1,13 @@
-### Hi there 👋
+<p align='center'>
+  ### 👋 I'm Samuel Joly a web developper but mostly a code enthusiast
+  <p align='center'>__5 years of wondering in the code world__</p>
+</p>
 
-  <a href="https://gist.github.com/samuel-joly/10fcca29ed21b2c94001bae0eb3b5f9ea403cdad">
-    <img src="https://raw.githubusercontent.com/samuel-joly/github-stats-box/images/screenshot.png">
-  </a>
-
-<!--
-**samuel-joly/samuel-joly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I currently work on **Symfony** and **WordPress** at the metropole
+- I'm currently learning to make a **Raspberry-Pie server**
+- Want to do too much things
+- VimBoy for now, used to use **Sublime** / **VsStudio** / **Notepad++**, will surely try **NeoVim** and **Emacs** in the following years
+- 💬 Blog : __soon__
+- 📫 Samuel.joly@laplateforme.io
+- 😄 Pronouns: Master / The Divine
+- 👯 Beard possessor

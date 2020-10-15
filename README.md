@@ -1,11 +1,15 @@
-👋 I'm Samuel Joly a web developper but mostly a code enthusiast
+👋 I'm Samuel Joly a web developper but mostly a tech enthusiast
 
-- :notes: I currently work on **Symfony** and **WordPress** at the metropole __Aix-Marseille-Provence__
-- :sparkles: I'm currently learning to make a **Raspberry-Pie server**
-- :neckbeard: Praticing **Vim** from february 2020 to now, used to use **Sublime** / **VsStudio** / **Notepad++**, will surely try **NeoVim** and **Emacs** in the following years
-- 📫 Samuel.joly@laplateforme.io
-- 😄 Pronouns: You dont call me, I'm here when its !needed.
-- 👯 Beard possessor
+> Talk is cheap. Show me the code.
+>
+> -Linus Torvalds
+
+- :notes: I currently work on **Web Development** with Symfony
+- :older_man: Old gitHub (mainly Python script):https://github.com/aze-fortwo
+- :persevere: Want to become Sys-admin
+- :book: Want to learn C# and electronics
+- :sparkles: Currently switching from Windows to Ubuntu
+- :+1: Challenge is **the** motivation --> <a href='https://www.codewars.com/users/azefortwo'>Codewars</a>
+- ⚡️ I've been praticing **Vim** from february to october 2020, now on **NeoVim**
+- 📫 Fell free to contact me on my <a href='mailto:Samuel.joly@laplateforme.io'>Email</a>
 - 💬 Blog : __soon__
-- ⚡️ My <a href='https://dev.to/samueljoly'>Dev.to</a> profile
-- <a href='https://www.codewars.com/users/azefortwo'><img src='https://www.codewars.com/users/azefortwo/badges/micro'/></a>

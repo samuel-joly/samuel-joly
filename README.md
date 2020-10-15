@@ -12,4 +12,3 @@
 - :+1: Challenge is **the** motivation --> <a href='https://www.codewars.com/users/azefortwo'>Codewars</a>
 - ⚡️ I've been praticing **Vim** from february to october 2020, now on **NeoVim**
 - 📫 Fell free to contact me on my <a href='mailto:Samuel.joly@laplateforme.io'>Email</a>
-- 💬 Blog : __soon__

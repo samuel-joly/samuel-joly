@@ -1,4 +1,6 @@
 > Talk is cheap. Show me the code.
+
+
 👋 I'm Samuel Joly a web developper but mostly a tech enthusiast
 
 :notes: I currently work on **Web Development** with Symfony<br>

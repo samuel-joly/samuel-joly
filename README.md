@@ -1,8 +1,5 @@
-👋 I'm Samuel Joly a web developper but mostly a tech enthusiast
-
 > Talk is cheap. Show me the code.
->
-> -Linus Torvalds
+👋 I'm Samuel Joly a web developper but mostly a tech enthusiast
 
 :notes: I currently work on **Web Development** with Symfony<br>
 :older_man: Old gitHub (mainly Python script):https://github.com/aze-fortwo<br>

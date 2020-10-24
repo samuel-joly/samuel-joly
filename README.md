@@ -5,7 +5,7 @@
 
 :notes: I currently work on **Web Development** with Symfony<br>
 :older_man: Old gitHub (mainly **Python**):https://github.com/aze-fortwo<br>
-:persevere: Want to become **Sys-admin**<br>
+:persevere: Want to learn about **servers**<br>
 :book: Want to learn **C#** and electronics<br>
 :sparkles: Currently switching from Windows to **Ubuntu**<br>
 :+1: **Challenge** is the motivation --> <a href='https://www.codewars.com/users/azefortwo'>Codewars</a><br>

@@ -3,7 +3,7 @@
 
 👋 I'm Samuel Joly a web developper but mostly a tech enthusiast
 
-:notes: I currently work on **Web Development** with Symfony<br>
+:notes: I currently work on **App and WebApp** with CodeIgniter and React-Native<br>
 :older_man: Old gitHub (mainly **Python**):https://github.com/aze-fortwo<br>
 :persevere: Want to learn about **servers**<br>
 :book: Want to learn **C#** and electronics<br>

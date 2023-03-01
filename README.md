@@ -3,7 +3,6 @@
 
 👋 I'm Samuel Joly a web developper but mostly a tech enthusiast
 
-:notes: I currently work on web development (FullStack)
 :older_man: Old gitHub (mainly **Python**):https://github.com/aze-fortwo<br>
 :book: Will to learn **Rust** and **IPFS**<br>
 :+1: Doing <a href='https://www.codewars.com/users/azefortwo'>Codewars</a> times to times<br>
